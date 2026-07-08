@@ -6,7 +6,7 @@
 
 Turning messy, complex data into decisions that hold up.
 
-🌐 **Portfolio:** (https://portfolio-seven-mocha-lno754f4tr.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-7C3AED?style=flat&logo=vercel&logoColor=white)](https://portfolio-seven-mocha-lno754f4tr.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yusuf--khovawale-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-khovawale)
 [![Email](https://img.shields.io/badge/Email-yusufmohammed53426%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yusufmohammed53426@gmail.com)
 [![Location](https://img.shields.io/badge/Cambridge,_UK-Open_to_Cambridge_%26_London-2E7D32?style=flat&logo=googlemaps&logoColor=white)](#)
